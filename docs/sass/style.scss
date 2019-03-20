@@ -185,7 +185,7 @@ body {
     height: 100%;
     position: relative;
     /* Save it until promotion ends
-    background-image: url(/images/Landing-Hero-01.svg);
+    background-image: url(../images/Landing-Hero-01.svg);
     background-size: 1000px;
     background-repeat: no-repeat;
     background-position: 80% 3%;
@@ -586,7 +586,7 @@ h6 {
     background: linear-gradient(0deg, rgba(0, 114, 255, 1) 0%, rgba(0, 198, 255, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0072ff", endColorstr="#00c6ff", GradientType=1);
     .promo-background {
-        background-image: url(/images/Clouds.svg);
+        background-image: url(../images/Clouds.svg);
         background-repeat: no-repeat;
         background-size: 70%;
         background-position: 40% 50%;
@@ -605,7 +605,7 @@ h6 {
         text-align: left;
         margin-left: 0;
         padding-top: 175px;
-        background-image: url(/images/Promo-Hero.svg);
+        background-image: url(../images/Promo-Hero.svg);
         background-repeat: no-repeat;
         background-position: 100% 100%;
         background-size: 50%;
@@ -1592,28 +1592,28 @@ h6 {
 
 .benefits-lego-top {
     height: 250px;
-    background-image: url(/images/curvy-top-1.svg);
+    background-image: url(../images/curvy-top-1.svg);
     background-size: cover;
     width: 100%;
 }
 
 .benefits-lego-bottom {
     height: 250px;
-    background-image: url(/images/curvy-bot-1.svg);
+    background-image: url(../images/curvy-bot-1.svg);
     background-size: cover;
     width: 100%;
 }
 
 .work-lego-top {
     height: 250px;
-    background-image: url(/images/curvy-top-2.svg);
+    background-image: url(../images/curvy-top-2.svg);
     background-size: cover;
     width: 100%;
 }
 
 .work-lego-bottom {
     height: 250px;
-    background-image: url(/images/curvy-bot-2.svg);
+    background-image: url(../images/curvy-bot-2.svg);
     background-size: cover;
     width: 100%;
 }
